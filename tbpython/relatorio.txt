@@ -1,0 +1,40 @@
+   cliente relatou     erro na entrega    do     produto.   
+Produto foi entregue. sucesso no atendimento.
+falha de comunicação   entre o   cliente  e o suporte.
+
+Cliente    reclamou   sobre  a    embalagem   do produto. produto danificado.
+sucesso sucesso  sucesso    no envio.  
+cliente   satisfeito com   o produto, mas    houve     atraso.
+ERRO no sistema de pagamento. erro ao registrar   cliente.
+  produto foi entregue fora do prazo. falha  relatada.
+produto produto produto. sucesso? talvez.
+Cliente pediu     troca do produto devido a defeito.
+     produto  com problema. erro detectado.
+cliente não recebeu  confirmação de compra.
+   Sucesso parcial na entrega do pedido.
+cliente cliente cliente cliente. sucesso e falha ao mesmo tempo.
+erro na     comunicação. cliente confuso.
+
+Erro ao gerar nota fiscal eletrônica para CLIENTE.
+cliente relatou que o PRODUTO estava com defeito.
+produto com problema no código de barras. cliente inconformado.
+falha falha falha. erro persistente no módulo de envio.
+CLIENTE informou que o produto chegou quebrado.
+sucesso no primeiro envio. erro no segundo.
+produto enviado com sucesso. sucesso confirmado.
+   atraso na entrega     gerou     reclamação.
+cliente pediu reembolso. produto não corresponde ao anúncio.
+  sistema fora do ar gerou falha na operação.
+PRODUTO PRODUTO PRODUTO - cliente irritado.
+
+erro detectado no banco de dados.
+   cliente reclamou da demora no suporte.
+produto danificado na caixa. falha no controle de qualidade.
+sucesso no suporte técnico. cliente agradecido.
+Erro ao aplicar cupom de desconto.
+cliente cliente cliente. suporte suporte suporte.
+produto com validade vencida. erro de estoque.
+   atendimento foi bom. sucesso parcial.
+cliente afirmou estar satisfeito com o produto.
+produto defeituoso enviado duas vezes. erro grave.
+sucesso no processo de troca.
