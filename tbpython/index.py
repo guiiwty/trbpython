@@ -1,4 +1,4 @@
-with open("C:/Users/rober/Documents/tbpython/relatorio.txt", "r", encoding="utf-8") as arquivo:
+with open("relatorio.txt", "r", encoding="utf-8") as arquivo:
 
     linhas = arquivo.readlines()
 
